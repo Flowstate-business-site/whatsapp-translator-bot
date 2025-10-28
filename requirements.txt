@@ -3,3 +3,4 @@ requests
 openai
 pydub
 ffmpeg-python
+simpleaudio
